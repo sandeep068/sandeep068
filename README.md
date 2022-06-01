@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sandeep Choudhary
-- 👀 I’m interested in Web Designing
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Front End Java Development.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me : sandeepcc117@gmail.com
